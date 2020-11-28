@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Color palette Sea wave-->
+<resources>
+<color name="colorPrimary">#005f89</color>
+<color name="colorPrimaryDark">#0093b7</color>
+<color name="colorAccent">#09cac7</color>
+
+<color name="choiceButton">#0093b7</color>
+<color name="buttonNotEnabled">#a0c5cf</color>
+<color name="trueButtonColor">#09cac7</color>
+<color name="checkBox">#005f89</color>
+<color name="textButton">#FFFFFF</color>
+<color name="text">#005f89</color>
+<color name="background">#e6eceb</color>
+</resources>
